@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipuKP2001&theme=radical" />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DipuKP2001&repo=github-readme-stats)](https://github.com/DipuKP2001/github-readme-stats)
+![deuterium's github](https://github-readme-stats.vercel.app/api?username=DipuKP2001&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipuKP2001&layout=compact)
+
